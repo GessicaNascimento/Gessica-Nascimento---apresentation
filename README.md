@@ -25,7 +25,7 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ## 🚀 Featured Projects
 
-### 📊 [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
+### 1. [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
 * **Description:** An analytical data pipeline that automates the ingestion of large datasets, generates structured tabular matrices via Pandas, renders statistical charts with Matplotlib, and exports multi-sheet executive reports to Excel.
 * **Technologies:** Python, Pandas, Matplotlib, OpenPyXL.
 * **Key Takeaways:** Demonstrates proficiency in exception handling, file system operations, environment isolation, and the delivery of business-oriented executive reports.
