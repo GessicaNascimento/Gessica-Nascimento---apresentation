@@ -8,14 +8,14 @@ Currently, I develop academic and personal projects involving automation, data p
 
 ---
 
-## 🏗️ Career Focus & Technical Interests
+## 1. Career Focus & Technical Interests
 * **Systems Architecture:** SOLID principles, Clean Architecture, data modeling, and system design.
 * **Applied Mathematics:** Discrete structures, set theory, and mathematical induction applied to software optimization.
 * **Data Engineering:** Data pipelines (ETL) and high-performance analytical reporting using Python (Pandas/Numpy).
 
 ---
 
-## 💻 Tech Stack & Tools
+## 2. Tech Stack & Tools
 * **Languages:** Python, JavaScript
 * **Data Analysis:** Pandas, NumPy, Matplotlib
 * **Tools & Environments:** Git, GitHub, VS Code, Virtual Environments (venv), Docker, DBeaver, Paycharm 
