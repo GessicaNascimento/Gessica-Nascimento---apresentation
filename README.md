@@ -1,54 +1,139 @@
 # Gessica-Nascimento
 
-# Hi there, I'm Gessica Nascimento 👋
+# Hi there, I'm Géssica Nascimento 👋
 
-Undergraduate Systems Analysis and Development (ADS) student with a strong passion for Structural Mathematics. My career focus and academic research are strictly directed toward **Software Engineering and Systems Architecture**—utilizing mathematical logic and computer science to design robust, efficient, and scalable systems.
+Systems Analysis & Development student focused on Software Engineering, Data Systems, and Systems Architecture.
 
-Currently, I develop academic and personal projects involving automation, data pipelines, and algorithms, applying software engineering best practices and design patterns from day one.
+I currently develop academic and personal projects involving data pipelines, analytical automation, software documentation, and structured problem-solving. My long-term focus is the intersection between software systems, computational modeling, and large-scale architecture design.
 
----
-
-## 1. Career Focus & Technical Interests
-* **Systems Architecture:** SOLID principles, Clean Architecture, data modeling, and system design.
-* **Applied Mathematics:** Discrete structures, set theory, and mathematical induction applied to software optimization.
-* **Data Engineering:** Data pipelines (ETL) and high-performance analytical reporting using Python (Pandas/Numpy).
+I am particularly interested in understanding how structured systems — technical or cognitive — can be modeled, optimized, and organized through computational logic.
 
 ---
 
-An analytics-driven approach focused on building structured environment isolation, pipeline tracking, and robust software architectures.
+# Current Focus
 
-### 2. Core Stack & Environments (Current Projects)
-* **Languages & Automation:** Python (Pandas, NumPy, Matplotlib, OpenPyXL)
-* **Version Control & Deploy:** Git, GitHub, GitHub Desktop
-* **Environments & Editors:** Virtual Environments (venv), VS Code, PyCharm
-
----
-### 3. Target Stack & Infrastructure (Active Transition & Future Systems)
-* **System Programming & Rigor:** Java, C (Focus on memory management, object-oriented principles, and low-level logic)
-* **Data Infrastructure & Tooling:** Docker (Containerization for microservices), DBeaver (Advanced SQL querying and database modeling)
-## Featured Projects
-
-### 4. [TechStore: Sales Automation & Data Pipeline](https://github.com/GessicaNascimento/techstore-sales-automation)
-* **Description:** An analytical data pipeline that automates the ingestion of large datasets, generates structured tabular matrices via Pandas, renders statistical charts with Matplotlib, and exports multi-sheet executive reports to Excel.
-* **Technologies:** Python, Pandas, Matplotlib, OpenPyXL.
-* **Key Takeaways:** Demonstrates proficiency in exception handling, file system operations, environment isolation, and the delivery of business-oriented executive reports.
+* Software Engineering Foundations
+* Data Analysis & Data Pipelines
+* Systems Architecture
+* SQL & Relational Modeling
+* Structured Problem Solving
+* Technical Documentation
+* Debugging & Workflow Analysis
 
 ---
 
-## ## Cognitive Directives & Research Foundations
+# 🛠️ Technologies & Tools
 
-My technical development and academic roadmap are anchored in **Computational Cognitive Science**—exploring the intersection of mathematical philosophy, cognitive patterns, and advanced system architecture.
+### Languages & Data
 
-### 🎯 Active Study Tracks & Current Focus
-* **Cognitive Modeling & Mathematical Philosophy:** Deepening structural studies in cognition and the foundations of mathematics, currently structuring comprehensive research drafts on both subjects.
-* **Empirical Data Analysis:** Utilizing data science pipelines (Python/Pandas/NumPy) as the practical framework to analyze, model, and benchmark logical patterns.
+* Python
+* SQL
+* JavaScript
+* HTML/CSS
+* C (learning)
 
-### 🔭 Future Research & Technological Horizon
-* **Undergraduate Research Fellowship (Target):** Preparing to enter formal academic research (Iniciação Científica) focusing on the mathematical modeling of cognitive processes.
-* **Quantum Computing & Systems Architecture:** Long-term vector targeted at **Quantum Computing paradigms, Quantum Languages**, and complex system security in the post-quantum era.
+### Libraries & Analytics
 
-*Note: These fields represent my active research tracks and cognitive direction, serving as the foundational blueprint for my next-generation systems and academic projects.*
+* Pandas
+* NumPy
+* Matplotlib
+* OpenPyXL
+
+### Development & Infrastructure
+
+* Git & GitHub
+* GitHub Desktop
+* VS Code
+* PyCharm
+* Virtual Environments (venv)
+* Docker (learning)
 
 ---
 
-📫 **How to reach me:** www.linkedin.com/in/ | gessnascimento@hotmail.com
+# Featured Projects
+
+## TechStore — Sales Analysis Pipeline
+
+Analytical pipeline for sales data processing and automated reporting.
+
+### Project Includes
+
+* CSV ingestion and preprocessing
+* Data cleaning and grouping
+* Statistical visualization
+* Automated Excel reporting
+* Workflow debugging documentation
+
+### Technologies
+
+Python • Pandas • Matplotlib • OpenPyXL
+
+---
+
+## Commercial Alfa — Sales Intelligence & Financial Projection
+
+Exploratory commercial analysis focused on business insights and financial simulation.
+
+### Project Includes
+
+* Relational data integration
+* Exploratory Data Analysis (EDA)
+* KPI visualization
+* Revenue projection scenarios
+* Analytical reporting structure
+
+### Technologies
+
+Python • SQL • Excel • VS Code
+
+---
+
+## Neural Vault — Software Requirements Documentation
+
+Academic software documentation project focused on system organization and requirements analysis.
+
+### Focus Areas
+
+* Functional requirements
+* System structure
+* Documentation workflow
+* Organizational modeling
+
+---
+
+#  Research & Analytical Interests
+
+My academic interests include:
+
+* Computational Cognitive Science
+* Systems Modeling
+* Organizational Dynamics
+* Mathematical Structures
+* Human Decision Systems
+* Complex Systems Architecture
+
+I am currently developing independent research and preparing future academic projects related to computational representations of cognitive processes and structured system behavior.
+
+---
+
+#  Development Philosophy
+
+I value:
+
+* structured learning
+* technical clarity
+* debugging documentation
+* systems thinking
+* continuous improvement
+* organized workflows
+
+My repositories often include technical reports, workflow observations, debugging analysis, and development documentation alongside the projects themselves.
+
+---
+
+# 📫 Contact
+
+* LinkedIn: [www.linkedin.com/in/](http://www.linkedin.com/in/)
+* Email: [gessnascimento@hotmail.com](mailto:gessnascimento@hotmail.com)
+* GitHub: https://github.com/GessicaNascimento
+
