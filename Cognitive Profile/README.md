@@ -1,5 +1,3 @@
-# Cognitive_Profile
-
 ## Cognitive Profile
 This directory contains technical documentation developed through long-term observation of engineering work methodology during real project development.  
 The purpose of this documentation is to record recurring patterns observed throughout technical execution, learning processes, decision-making, problem solving and system architecture development.  
