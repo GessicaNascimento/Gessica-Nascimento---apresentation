@@ -4,7 +4,7 @@
 **Longitudinal Observation of Cognitive Architecture Through Technical Development and Engineering Practice**
 
 ### BIO HEADER
-* **Name:** Géssica
+* **Name:** Géssica Nascimento 
 * **Primary Academic Degree:** Analysis and Systems Development
 * **Primary Technical Domains:** Software Engineering, Data Engineering, Business Intelligence, Systems Architecture, Cloud Engineering
 * **Parallel Research Domain:** Cognitive Science Applied to Engineering Cognition and Human Problem Solving
