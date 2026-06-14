@@ -1,8 +1,7 @@
-## Cognitive Profile
-This directory contains technical documentation developed through long-term observation of engineering work methodology during real project development.  
-The purpose of this documentation is to record recurring patterns observed throughout technical execution, learning processes, decision-making, problem solving and system architecture development.  
-Rather than focusing only on project delivery, this repository also documents the structured development process used during project construction.
+## Cognitive Profile → documented engineering workflow patterns observed during long-term technical development.
 
+This directory contains technical documentation developed through long-term observation of engineering work methodology during real project development.  The purpose of this documentation is to record recurring patterns observed throughout technical execution, learning processes, decision-making, problem solving and system architecture development.  
+Rather than focusing only on project delivery, this repository also documents the structured development process used during project construction. 
 ---
 
 ### The main report included in this section:
